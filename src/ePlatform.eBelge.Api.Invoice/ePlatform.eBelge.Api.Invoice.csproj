@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Inbox\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ePlatform.Api.Core\ePlatform.Api.Core.csproj" />
+  </ItemGroup>
+
+</Project>
