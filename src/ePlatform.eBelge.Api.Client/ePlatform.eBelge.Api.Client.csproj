@@ -9,10 +9,11 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>ePlatform eBelge Apis Client Library</Title>
     <PackageTags>ePlatformApi e-dönüşüm e-fatura e-arşiv fatura e-defter e-irsaliye</PackageTags>
-    <Authors>ePlatform</Authors>
-    <PackageProjectUrl>https://git.eplatform.com.tr/ePlatformComTr/eplatform-api-dotnet-client</PackageProjectUrl>
-    <RepositoryUrl>https://git.eplatform.com.tr/ePlatformComTr/eplatform-api-dotnet-client</RepositoryUrl>
+    <Authors>ePlatform Bulut Bilişim A.Ş</Authors>
+    <PackageProjectUrl>https://github.com/ePlatformComTr/eplatform-api-dotnet-client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ePlatformComTr/eplatform-api-dotnet-client</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>ePlatform.eBelge.Api.Client</PackageId>
     <Version>1.0.0</Version>
     <AssemblyVersion>1.0.0</AssemblyVersion>
